@@ -1,0 +1,58 @@
+#main{
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+
+
+}
+#one{
+    background-color: rgba(42, 199, 246, 0.96);
+    color: #e8eeef;
+
+
+}
+legend{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+input[type=text], input[type=email], input[type=tel],select{
+    width: 85%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+textarea{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+button{
+    border-radius: 10px;
+    background-color: #09ddf8;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #e8eeef;
+    margin-bottom: 20px;
+
+}
+body{
+    background-color: #6107b3;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#TWO{
+    background-color: white;
+}
